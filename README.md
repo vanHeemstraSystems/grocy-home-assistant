@@ -8,3 +8,5 @@ Based on "Grocy" at https://github.com/hassio-addons/addon-grocy
 Documentation at https://github.com/hassio-addons/addon-grocy/blob/main/grocy/DOCS.md
 
 *NOTE:* The default login is user: admin password: admin.
+
+Based on "lovelace-grocy-chores-card" at https://github.com/isabellaalstrom/lovelace-grocy-chores-card
